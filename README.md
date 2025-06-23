@@ -5,8 +5,6 @@
 # 💫 About Me:
 Hey there, I'm **Muzafar** – your friendly neighborhood developer, gym rat, and part-time philosopher ⚡.<br><br>- 🎓 Graduated in **Computer Science and Engineering**  <br>- 🧠 Former SDE Intern | Current **Skill Rebuilder** | Future **Tech Jedi**  <br>- 🌍 Aiming for **high-paying roles** ( – if you're hiring, I come with good code and better protein shakes 🥤)
 
-> 💬 *“Still under construction – like any good developer.”*<br><br>---<br><br>
-
 
 
 ## 🌐 Socials:
