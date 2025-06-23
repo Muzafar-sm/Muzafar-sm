@@ -1,5 +1,5 @@
-<p align="center">
-  <img src="assets/download.gif" width="100%" alt="Tron says hello!" />
+<p align = "center">
+<img alt="Night Coding" src="https://github.com/user-attachments/assets/aec6fe9c-d10d-49c3-ac72-2557b275327f"/>
 </p>
 
 # 💫 About Me:
