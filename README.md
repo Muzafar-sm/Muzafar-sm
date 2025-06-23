@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/download.gif" width="100%" alt="Tron says hello!" />
+</p>
+
 # 💫 About Me:
 Hey there, I'm **Muzafar** – your friendly neighborhood developer, gym rat, and part-time philosopher ⚡.<br><br>- 🎓 Graduated in **Computer Science and Engineering**  <br>- 🧠 Former SDE Intern | Current **Skill Rebuilder** | Future **Tech Jedi**  <br>- 🌍 Aiming for **high-paying roles** ( – if you're hiring, I come with good code and better protein shakes 🥤)
 
